@@ -12,7 +12,7 @@ Please feel free to pull requests or report issues.
 - [Papers](#papers)
   - [Survey](#survey)
   - [Theory](#theory)
-- [Code Repos](#Code Repos)
+- [Code Repos](#code-repos)
 - [Lectures and Tutorials](#lectures-and-tutorials)
 - [Other Resources](#other-resources)
 
