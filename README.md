@@ -12,7 +12,7 @@ Please feel free to pull requests or report issues.
 - [Papers](#papers)
   - [Survey](#survey)
   - [Theory](#theory)
-- [Library](#library)
+- [Code Repos](#Code Repos)
 - [Lectures and Tutorials](#lectures-and-tutorials)
 - [Other Resources](#other-resources)
 
@@ -32,15 +32,21 @@ Please feel free to pull requests or report issues.
 * Don’t Stop Pretraining: Adapt Language Models to Domains and Tasks [ACL 2020] [[__pdf__](https://arxiv.org/pdf/2004.10964.pdf)]  [[__code__](https://github.com/allenai/dont-stop-pretraining)] 
 * Using Similarity Measures to Select Pretraining Data for NER [NAACL 2019] [[__pdf__](https://arxiv.org/pdf/1904.00585.pdf)]  [[__code__](https://github.com/daixiangau/naacl2019-select-pretraining-data-for-ner)] 
 * Unsupervised Domain Clusters in Pretrained Language Models [ACL 2020] [[__pdf__](https://arxiv.org/pdf/2004.02105.pdf)]  [[__code__](https://github.com/roeeaharoni/unsupervised-domain-clusters)] 
+* Unsupervised Domain Adaptation of Contextualized Embeddings for Sequence Labeling [EMNLP 2019] [[__pdf__](https://arxiv.org/pdf/1904.02817.pdf)]  [[__code__](https://github.com/xhan77/AdaptaBERT)]  
+
 
 ## Alignment-based
 * Curriculum Learning for Domain Adaptation in Neural Machine Translation [NAACL 2019] [[__pdf__](https://arxiv.org/pdf/1905.05816.pdf)]  [[__code__](https://github.com/kevinduh/sockeye-recipes/tree/master/egs/curriculum)] 
 * To Annotate or Not? Predicting Performance Drop under Domain Shift  [EMNLP 2019] [[__pdf__](https://www.aclweb.org/anthology/D19-1222.pdf)]  [[__code__](https://github.com/hadyelsahar/domain-shift-prediction)] 
 * Active Adversarial Domain Adaptation [WACV 2020] [[__pdf__](https://arxiv.org/pdf/1904.07848.pdf)]
 * BatchBALD: Efficient and Diverse Batch Acquisition for Deep Bayesian Active Learning [NeurIPS 2019] [[__pdf__](https://arxiv.org/pdf/1906.08158.pdf)]  [[__code__](https://github.com/BlackHC/BatchBALD)] 
+* Multi-Source Domain Adaptation for Text Classification via DistanceNet-Bandits [AAAI 2020] [[__pdf__](https://arxiv.org/pdf/2001.04362.pdf)] 
 
 
-# Library
+# Code Repos
+Unsupervised domain adaptation method for relation extraction [[__code__](https://github.com/AnthonyMRios/adversarial-relation-classification)]  
+Unsupervised domain adaptation with BERT for Amazon food product reviews sentiment analysis. [[__code__](https://github.com/EmreTaha/Unsupervised-Domain-Adaptation-with-BERT)]
+  
 
 # Lectures and Tutorials
 
