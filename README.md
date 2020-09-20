@@ -27,6 +27,11 @@ Please feel free to pull requests or report issues.
 ## Negative Transfer 
 * Characterizing and Avoiding Negative Transfer [CVPR 2019] [[__pdf__](https://arxiv.org/pdf/1811.09751.pdf)]  
 
+## Data Selection
+* Reinforced Training Data Selection for Domain Adaptation [ACL 2019] [[__pdf__](https://www.aclweb.org/anthology/P19-1189.pdf)] [[__code__](https://github.com/timerstime/SDG4DA)] 
+* Entropy-based Training Data Selection for Domain Adaptation [COLING 2012] [[__pdf__](https://www.aclweb.org/anthology/C12-2116.pdf)]
+
+
 ## Pretraining-based
 * Domain-Specific Language Model Pretraining for Biomedical Natural Language Processing [arXiv 2020 Aug] [[__pdf__](https://arxiv.org/pdf/2007.15779.pdf)]  [[__code__](https://microsoft.github.io/BLURB/)] 
 * Don’t Stop Pretraining: Adapt Language Models to Domains and Tasks [ACL 2020] [[__pdf__](https://arxiv.org/pdf/2004.10964.pdf)]  [[__code__](https://github.com/allenai/dont-stop-pretraining)] 
@@ -41,6 +46,8 @@ Please feel free to pull requests or report issues.
 * Active Adversarial Domain Adaptation [WACV 2020] [[__pdf__](https://arxiv.org/pdf/1904.07848.pdf)]
 * BatchBALD: Efficient and Diverse Batch Acquisition for Deep Bayesian Active Learning [NeurIPS 2019] [[__pdf__](https://arxiv.org/pdf/1906.08158.pdf)]  [[__code__](https://github.com/BlackHC/BatchBALD)] 
 * Multi-Source Domain Adaptation for Text Classification via DistanceNet-Bandits [AAAI 2020] [[__pdf__](https://arxiv.org/pdf/2001.04362.pdf)] 
+* Bayesian Uncertainty Matching for Unsupervised Domain Adaptation [IJCAI 2019] [[__pdf__](https://arxiv.org/pdf/1906.09693.pdf)]
+* Unsupervised Domain Adaptation via Calibrating Uncertainties [CVPR Workshop 19] [[__pdf__](https://arxiv.org/pdf/1907.11202.pdf)]
 
 
 # Code Repos
