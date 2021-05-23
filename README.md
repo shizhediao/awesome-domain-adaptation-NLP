@@ -12,11 +12,37 @@ Please feel free to pull requests or report issues.
 - [Papers](#papers)
   - [Survey](#survey)
   - [Theory](#theory)
+- [Conference Papers](#conf-papers)
+  - [NAACL 2021](#NAACL2021)
+  - [EMNLP 2021](#EMNLP2021)
 - [Code Repos](#code-repos)
 - [Lectures and Tutorials](#lectures-and-tutorials)
 - [Other Resources](#other-resources)
 
 # Papers
+
+## NAACL 2021
+* Meta-Learning for Domain Generalization in Semantic Parsing [NAACL 2021] [[__pdf__](https://arxiv.org/pdf/2010.11988.pdf)][[__code__](https://github.com/berlino/tensor2struct-public)]
+* UmlsBERT: Clinical Domain Knowledge Augmentation of Contextual Embeddings Using the Unified Medical Language System Metathesaurus [NAACL 2021] [[__pdf__](https://arxiv.org/pdf/2010.10391.pdf)][[__code__](https://github.com/gmichalo/UmlsBERT)]
+* DART: Open-Domain Structured Data Record to Text Generation [NAACL 2021] [[__pdf__](https://arxiv.org/pdf/2007.02871.pdf)][[__code__](https://github.com/Yale-LILY/dart)]
+* OodGAN: Generative Adversarial Network for Out-of-Domain Data [NAACL 2021 Industry track] [[__pdf__](https://arxiv.org/pdf/2104.02484.pdf)]
+* Leaving No Valuable Knowledge Behind: Weak Supervision with Self-training and Domain-specific Rules [NAACL 2021] [[__pdf__](https://www.microsoft.com/en-us/research/uploads/prod/2021/03/SelftrainWS-NAACL2021.pdf)][[__code__](https://github.com/microsoft/ASTRA)]
+* QMSum: A New Benchmark for Query-based Multi-domain Meeting Summarization [NAACL 2021] [[__pdf__](https://arxiv.org/pdf/2104.05938.pdf)][[__code__](https://github.com/Yale-LILY/QMSum)]
+* UDALM: Unsupervised Domain Adaptation through Language Modeling [NAACL 2021] [[__pdf__](https://arxiv.org/pdf/2104.07078.pdf)][[__code__](https://github.com/ckarouzos/slp_daptmlm)]
+
+## EMNLP 2021
+* Wasserstein Distance Regularized Sequence Representation for Text Matching in Asymmetrical Domains [EMNLP 2020] [[__pdf__](https://arxiv.org/pdf/2010.07717.pdf)][[__code__](https://github.com/RUC-WSM/WD-Match)]
+* Transformer Based Multi-Source Domain Adaptation [EMNLP 2020] [[__pdf__](https://arxiv.org/pdf/2009.07806.pdf)][[__code__](https://github.com/copenlu/xformer-multi-source-domain-adaptation)]
+* Multi-Stage Pre-training for Low-Resource Domain Adaptation [EMNLP 2020] [[__pdf__](https://arxiv.org/pdf/2010.05904.pdf)]
+* Meta Fine-Tuning Neural Language Models for Multi-Domain Text Mining [EMNLP 2020] [[__pdf__](https://arxiv.org/pdf/2003.13003.pdf)]
+* Grammatical Error Correction in Low Error Density Domains: A New Benchmark and Analyses [EMNLP 2020] [[__pdf__](https://arxiv.org/pdf/2010.07574.pdf)][[__code__](https://github.com/SimonHFL/CWEB)]
+* Feature Adaptation of Pre-Trained Language Models across Languages and Domains with Robust Self-Training [EMNLP 2020] [[__pdf__](https://arxiv.org/pdf/2009.11538.pdf)]
+* End-to-End Synthetic Data Generation for Domain Adaptation of Question Answering Systems [EMNLP 2020] [[__pdf__](https://arxiv.org/pdf/2010.06028.pdf)]
+* Effective Unsupervised Domain Adaptation with Adversarially Trained Language Models [EMNLP 2020] [[__pdf__](https://arxiv.org/pdf/2010.01739.pdf)][[__code__](https://github.com/trangvu/mlm4uda)]
+* An Empirical Investigation Towards Efficient Multi-Domain Language Model Pre-training [EMNLP 2020] [[__pdf__](https://arxiv.org/pdf/2010.00784.pdf)][[__code__](https://github.com/aws-health-ai/multi_domain_lm)]
+* MEGATRON-CNTRL: Controllable Story Generation with External Knowledge Using Large-Scale Language Models [EMNLP 2020 main conference] [[__pdf__](https://arxiv.org/pdf/2010.00840.pdf)]
+
+
 
 ## Survey
 * Neural Unsupervised Domain Adaptation in NLP—A Survey [arXiv 2020 May] [[__pdf__](https://arxiv.org/pdf/2006.00632.pdf)]  [[__code__](https://github.com/bplank/awesome-neural-adaptation-in-NLP)]  
