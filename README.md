@@ -18,6 +18,20 @@ Please feel free to pull requests or report issues.
 
 # Papers
 
+## ACL 2021
+* Measuring Fine-Grained Domain Relevance of Terms: A Hierarchical Core-Fringe Approach [ACL 2021 Long] [[__pdf__](https://arxiv.org/pdf/2105.13255.pdf)][[__code__](https://github.com/jeffhj/domain-relevance)]
+* Domain-Adaptive Pretraining Methods for Dialogue Understanding [ACL 2021 Short] [[__pdf__](https://aclanthology.org/2021.acl-short.84.pdf)]
+* Enhancing the Generalization for Intent Classification and Out-of-Domain Detection in SLU [ACL 2021 Long] [[__pdf__](https://arxiv.org/pdf/2106.14464.pdf)]
+* Adapt-and-Distill: Developing Small, Fast and Effective Pretrained Language Models for Domains [ACL 2021 Findings Long] [[__pdf__](https://arxiv.org/pdf/2106.13474.pdf)][[__code__](https://github.com/microsoft/unilm/tree/master/adalm)]
+* Preview, Attend and Review Schema-Aware Curriculum Learning for Multi-Domain Dialog State Tracking [ACL 2021 Short] [[__pdf__](https://arxiv.org/pdf/2106.00291.pdf)]
+* Crowdsourcing Learning as Domain Adaptation A Case Study on Named Entity Recognition [ACL 2021 Long] [[__pdf__](https://arxiv.org/pdf/2105.14980v1.pdf)][[__code__](https://github.com/izhx/CLasDA)]
+* Learning Domain-Specialised Representations for Cross-Lingual Biomedical Entity Linking [ACL 2021 Short] [[__pdf__](https://arxiv.org/pdf/2105.14398.pdf)][[__code__](https://github.com/cambridgeltl/sapbert)]
+* Modeling Discriminative Representations for Out-of-Domain Detection with Supervised Contrastive Learning [ACL 2021 Short] [[__pdf__](https://arxiv.org/pdf/2105.14289.pdf)][[__code__](https://github.com/parZival27/supervised-contrastive-learning-for-out-of-domain-detection)]
+* Unsupervised Out-of-Domain Detection via Pre-trained Transformers [ACL 2021 Long] [[__pdf__](https://arxiv.org/pdf/2106.00948.pdf)][[__code__](https://github.com/rivercold/BERT-unsupervised-OOD)]
+* Adapt-and-Distill Developing Small, Fast and Effective Pretrained Language Models for Domains [ACL 2021 Findings Long] [[__pdf__](https://aclanthology.org/2021.findings-acl.40.pdf)][[__code__](https://github.com/microsoft/unilm/tree/master/adalm)]
+
+
+
 ## NAACL 2021
 * Meta-Learning for Domain Generalization in Semantic Parsing [NAACL 2021] [[__pdf__](https://arxiv.org/pdf/2010.11988.pdf)][[__code__](https://github.com/berlino/tensor2struct-public)]
 * UmlsBERT: Clinical Domain Knowledge Augmentation of Contextual Embeddings Using the Unified Medical Language System Metathesaurus [NAACL 2021] [[__pdf__](https://arxiv.org/pdf/2010.10391.pdf)][[__code__](https://github.com/gmichalo/UmlsBERT)]
@@ -27,7 +41,7 @@ Please feel free to pull requests or report issues.
 * QMSum: A New Benchmark for Query-based Multi-domain Meeting Summarization [NAACL 2021] [[__pdf__](https://arxiv.org/pdf/2104.05938.pdf)][[__code__](https://github.com/Yale-LILY/QMSum)]
 * UDALM: Unsupervised Domain Adaptation through Language Modeling [NAACL 2021] [[__pdf__](https://arxiv.org/pdf/2104.07078.pdf)][[__code__](https://github.com/ckarouzos/slp_daptmlm)]
 
-## EMNLP 2021
+## EMNLP 2020
 * Wasserstein Distance Regularized Sequence Representation for Text Matching in Asymmetrical Domains [EMNLP 2020] [[__pdf__](https://arxiv.org/pdf/2010.07717.pdf)][[__code__](https://github.com/RUC-WSM/WD-Match)]
 * Transformer Based Multi-Source Domain Adaptation [EMNLP 2020] [[__pdf__](https://arxiv.org/pdf/2009.07806.pdf)][[__code__](https://github.com/copenlu/xformer-multi-source-domain-adaptation)]
 * Multi-Stage Pre-training for Low-Resource Domain Adaptation [EMNLP 2020] [[__pdf__](https://arxiv.org/pdf/2010.05904.pdf)]
